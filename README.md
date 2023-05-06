@@ -2,4 +2,4 @@
 
 git clone https://github.com/ibis990/moscowtool
 cd moscowtool
-python3 moscowtool.py
+python3 moscow.py
